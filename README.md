@@ -43,7 +43,7 @@ The application capables of:
 ## Order Page
 <img src="https://github.com/shahramadalat/Assets/blob/main/order.PNG"/>
 
-## Print Previe Page
+## Print Preview Page
 <img src="https://github.com/shahramadalat/Assets/blob/main/print%20preview.png"  />
 
 ## Print Result Example
