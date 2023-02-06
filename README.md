@@ -43,7 +43,7 @@ The application capables of:
 <img src="https://github.com/shahramadalat/Assets/blob/main/order.PNG" width="1920" height="625" />
 
 ## Print Previe Page
-<img src="https://github.com/shahramadalat/Assets/blob/main/print%20preview.png" width="1920" height="625" />
+<img src="https://github.com/shahramadalat/Assets/blob/main/print%20preview.png" width="1500" height="625" />
 
 ## Print Result Example
 <img src="https://github.com/shahramadalat/Assets/blob/main/example.jpg" width="1920" height="625" />
