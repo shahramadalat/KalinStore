@@ -19,7 +19,8 @@ The application capables of:
 <li>Set and Organize the print setting</li>
 <li>Organize construction worker detail</li>
 <li>Organize Customer detail </li>
-<li>It is ready for future nedded mathmatical calculations</li>
+<li>It is ready for future needed mathmatical calculations</li>
+<li>Print orders</li>
 </ol>
 
 ## The application parts
