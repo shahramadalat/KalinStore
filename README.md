@@ -25,6 +25,6 @@ The application capables of:
 ## The application parts
 
 ## Home page
-<img src="https://github.com/shahramadalat/Assets/blob/main/home.PNG" width="200" height="425" />
+<img src="https://github.com/shahramadalat/Assets/blob/main/home.PNG" width="400" height="200" />
 
 
