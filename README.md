@@ -22,10 +22,9 @@ The application capables of:
 <li>It is ready for future nedded mathmatical calculations</li>
 </ol>
 
-<img src="https://github.com/shahramadalat/Assets/blob/main/RunOnMobileExample.gif" width="200" height="425" />
+## The application parts
 
-the application can perform well even when the wifi or internet connection is off: <br /><br />
-<img src="https://github.com/shahramadalat/Assets/blob/main/RunWithoutWifi.gif" width="200" height="425" />
+## Home page
+<img src="https://github.com/shahramadalat/Assets/blob/main/home.PNG" width="200" height="425" />
 
-### On Windows
-<img src="https://github.com/shahramadalat/Assets/blob/main/OnWindows.gif" width="700" height="400" />
+
