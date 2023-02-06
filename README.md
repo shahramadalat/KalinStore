@@ -27,4 +27,28 @@ The application capables of:
 ## Home page
 <img src="https://github.com/shahramadalat/Assets/blob/main/home.PNG" width="1920" height="625" />
 
+## Supply page
+<img src="https://github.com/shahramadalat/Assets/blob/main/supply.PNG" width="1920" height="625" />
+
+## Construction Worker Page
+<img src="https://github.com/shahramadalat/Assets/blob/main/wasta.PNG" width="1920" height="625" />
+
+## Customer Page
+<img src="https://github.com/shahramadalat/Assets/blob/main/customer.PNG" width="1920" height="625" />
+
+## Print Setting Page
+<img src="https://github.com/shahramadalat/Assets/blob/main/setting.PNG" width="1920" height="625" />
+
+## Order Page
+<img src="https://github.com/shahramadalat/Assets/blob/main/order.PNG" width="1920" height="625" />
+
+## Print Previe Page
+<img src="https://github.com/shahramadalat/Assets/blob/main/print%20preview.png" width="1920" height="625" />
+
+## Print Result Example
+<img src="https://github.com/shahramadalat/Assets/blob/main/example.jpg" width="1920" height="625" />
+
+
+
+
 
