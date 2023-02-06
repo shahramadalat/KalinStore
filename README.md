@@ -29,25 +29,25 @@ The application capables of:
 <img src="https://github.com/shahramadalat/Assets/blob/main/home.PNG" />
 
 ## Supply page
-<img src="https://github.com/shahramadalat/Assets/blob/main/supply.PNG" width="1920" height="580" />
+<img src="https://github.com/shahramadalat/Assets/blob/main/supply.PNG" />
 
 ## Construction Worker Page
-<img src="https://github.com/shahramadalat/Assets/blob/main/wasta.PNG" width="1920" height="580" />
+<img src="https://github.com/shahramadalat/Assets/blob/main/wasta.PNG"/>
 
 ## Customer Page
-<img src="https://github.com/shahramadalat/Assets/blob/main/customer.PNG" width="1920" height="580" />
+<img src="https://github.com/shahramadalat/Assets/blob/main/customer.PNG" />
 
 ## Print Setting Page
-<img src="https://github.com/shahramadalat/Assets/blob/main/setting.PNG" width="1920" height="580" />
+<img src="https://github.com/shahramadalat/Assets/blob/main/setting.PNG" />
 
 ## Order Page
-<img src="https://github.com/shahramadalat/Assets/blob/main/order.PNG" width="1920" height="580" />
+<img src="https://github.com/shahramadalat/Assets/blob/main/order.PNG"/>
 
 ## Print Previe Page
-<img src="https://github.com/shahramadalat/Assets/blob/main/print%20preview.png" width="625" height="800" />
+<img src="https://github.com/shahramadalat/Assets/blob/main/print%20preview.png"  />
 
 ## Print Result Example
-<img src="https://github.com/shahramadalat/Assets/blob/main/example.jpg" width="1920" height="580" />
+<img src="https://github.com/shahramadalat/Assets/blob/main/example.jpg" />
 
 
 
